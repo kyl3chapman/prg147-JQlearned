@@ -1,0 +1,120 @@
+
+
+body {
+    background: lightblue;
+    color: darkgreen;
+}
+
+#constrain {
+    width: 1060px;
+    height: 750px;
+    left: 100px;
+    top: 100px;
+    padding: 15px;
+    position: absolute;
+}
+
+h1 {
+    font-size: 4em;
+    text-shadow: 3px, 3px, 3px, rgba(200, 220, 50, 0.5);
+}
+
+h1,
+h2,
+h3,
+h4 {
+    text-align: center;
+    font-family: fantasy;
+    color: #c3320a;
+    font-weight: 800;
+}
+
+p,
+figcaption {
+    font-family: 'Exo 2', sans-serif;
+}
+
+p {
+    font-size: 1em;
+}
+
+img {
+    display: block;
+}
+
+#box {
+    width: 300px;
+    height: 300px;
+    left: 340px;
+    top: 500px;
+    color: red;
+    position: absolute;
+}
+
+#tree {
+    display: none;
+    width: 550px;
+    height: auto;
+    position: absolute;
+    left: 400px;
+    top: 50px;
+}
+
+#star {
+    position: absolute;
+    left: 100px;
+    top: 200px;
+    display: none;
+    cursor: pointer;
+    width: 200px;
+    height: auto;
+}
+
+#elf {
+    position: absolute;
+    left: 270px;
+    top: 500px;
+    display: none;
+    width: 200px;
+    height: auto;
+    cursor: pointer;
+}
+
+#snowman {
+    position: absolute;
+    left: 1200px;
+    top: 240px;
+    display: none;
+    width: 90px;
+    height: auto;
+    cursor: pointer;
+}
+
+#hill {
+    position: absolute;
+    top: 500px;
+    width: 300px;
+}
+
+#snowman {
+    position: absolute;
+    left: 100px;
+    top: 450px;
+    display: none;
+    cursor: pointer;
+    width: 75px;
+    height: auto;
+}
+
+#santa {
+    position: absolute;
+    left: 950px;
+    top: 100px;
+    display: none;
+    cursor: pointer;
+    width: 165px;
+    height: auto;
+}
+b {
+   font-size: 20px; 
+}
